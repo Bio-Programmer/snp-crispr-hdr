@@ -1,0 +1,86 @@
+mpra_experiment,snp,chr,pos,disease,MHC_eGenes,index_snp
+cancer,rs186474654,chr5,96801755,colon,ERAP2,rs202110856
+cancer,rs2706336,chr5,132464269,hmec,IRF1,rs736801
+cancer,rs72797306,chr5,132465058,hmec,IRF1,rs736801
+cancer,rs3131073,chr6,28953195,airway;hmec,HLA-F;HLA-K;HLA-H;HLA-G;HLA-V;HLA-T;HLA-A,rs148696809;rs4324798
+cancer,rs2523397,chr6,29733063,pros,HLA-F;HLA-E;HLA-K;HLA-J;HLA-W;HLA-H;HLA-G;HLA-U;HLA-V;HLA-L;HLA-A,rs2523395
+cancer,rs3132645,chr6,30441472,hmec,HLA-F;HLA-E;HLA-C;HLA-S;HLA-K;HLA-J;HLA-H;HLA-G;HLA-V;HLA-L;HLA-A,rs3132615
+cancer,rs9262142,chr6,30682249,hmec,HLA-F;HLA-E;HLA-C;HLA-S;HLA-K;HLA-J;HLA-H;HLA-G;HLA-V;HLA-L;HLA-T;HLA-A,rs3132610;rs9262142;rs3129984
+cancer,rs3095327,chr6,30731245,hmec,HLA-E;HLA-C;HLA-S;HLA-K;HLA-J;HLA-H;HLA-G;HLA-V;HLA-L;HLA-A,rs9262142
+cancer,rs3095311,chr6,31083898,airway,HLA-E;HLA-C;HLA-S;HLA-B;HLA-L,rs3094222
+cancer,rs9265965,chr6,31347852,airway,HLA-C;HLA-S;HLA-B,rs2596500
+cancer,rs2923008,chr6,31349134,airway;gm,HLA-E;HLA-C;HLA-S;HLA-B,rs2596500;rs2523607
+cancer,rs2596505,chr6,31351008,airway;gm,HLA-E;HLA-C;HLA-S;HLA-B,rs2596500;rs2523607
+cancer,rs3101018,chr6,31738087,airway,HLA-C;HLA-S;HLA-B,rs3131378;rs3117582;rs501942
+cancer,rs7765136,chr6,31831616,airway,HLA-S,rs622076
+cancer,rs3130476,chr6,31834324,airway,HLA-C;HLA-S,rs501942;rs3117582;rs3131378
+cancer,rs9268405,chr6,32374310,airway,HLA-S,rs3817963
+cancer,rs9275212,chr6,32690550,gm,PSMB9,rs2647012;rs2647046
+cancer,rs35472814,chr6,32692120,gm,PSMB8;PSMB9;TAP2,rs10484561
+cancer,rs2858310,chr6,32700546,gm,PSMB9,rs2647046;rs2647012
+cancer,rs9276411,chr6,32742698,gm,PSMB9;TAP2;PSMB8,rs7453920
+cancer,rs4764551,chr12,6277170,colon,TAPBPL,rs10849432
+cancer,rs748404,chr15,43267033,airway,PDIA3,rs748404
+cancer,rs192042122,chr17,42745150,hmec,PSME3,rs72826962
+cancer,rs6121557,chr20,62386215,colon,ADRM1,rs6061231;rs2427308
+skin,rs60557285,chr6,30673098,Rosacea|Rosacea|Rosacea|Rosacea|Rosacea|Rosacea|Rosacea|Rosacea|Rosacea,HLA-V;HLA-G;HLA-K;HLA-L|HLA-V;HLA-G;HLA-K;HLA-L|HLA-V;HLA-G;HLA-K;HLA-L|HLA-V;HLA-G;HLA-K;HLA-L|HLA-V;HLA-G;HLA-K;HLA-L|HLA-V;HLA-G;HLA-K;HLA-L|HLA-V;HLA-G;HLA-K;HLA-L|HLA-V;HLA-G;HLA-K;HLA-L|HLA-V;HLA-G;HLA-K;HLA-L,rs3132649
+skin,rs10044354,chr5,96984791,Psoriasis|Psoriasis,ERAP2|ERAP2,rs2910686
+skin,rs112654689,chr6,30779125,Rosacea|Rosacea|Rosacea,HLA-V;HLA-G;HLA-K;HLA-L|HLA-V;HLA-G;HLA-K;HLA-L|HLA-V;HLA-G;HLA-K;HLA-L,rs1264350
+skin,rs114052920,chr6,30326421,Rosacea|Rosacea|Rosacea,HLA-V;HLA-G;HLA-K;HLA-L|HLA-V;HLA-G;HLA-K;HLA-L|HLA-V;HLA-G;HLA-K;HLA-L,rs3132649
+skin,rs115838062,chr6,31246721,Psoriasis|Psoriasis|Psoriasis,HLA-L|HLA-L|HLA-L,rs118179173
+skin,rs117984242,chr6,30597176,Rosacea|Rosacea|Rosacea|Rosacea|Rosacea|Rosacea|Rosacea|Rosacea|Rosacea,HLA-V;HLA-K;HLA-L|HLA-V;HLA-K;HLA-L|HLA-V;HLA-K;HLA-L|HLA-V;HLA-K;HLA-L|HLA-V;HLA-K;HLA-L|HLA-V;HLA-K;HLA-L|HLA-V;HLA-K;HLA-L|HLA-V;HLA-K;HLA-L|HLA-V;HLA-K;HLA-L,rs3132649
+skin,rs118029040,chr6,30810957,Rosacea|Rosacea|Rosacea,HLA-K;HLA-L|HLA-K;HLA-L|HLA-K;HLA-L,rs3132649
+skin,rs11967808,chr6,30211411,Rosacea,HLA-V;HLA-K;HLA-L,rs3132649
+skin,rs12191286,chr6,31082093,Psoriasis|Psoriasis|Psoriasis|Psoriasis|Psoriasis|Psoriasis,HLA-L|HLA-L|HLA-L|HLA-L|HLA-L|HLA-L,rs4406273
+skin,rs1264322,chr6,30890117,Cutaneous lupus|Rosacea|Rosacea|Cutaneous lupus|Rosacea|Rosacea|Cutaneous lupus|Rosacea|Rosacea,HLA-K;HLA-A;HLA-J;HLA-L;HLA-C|HLA-K;HLA-A;HLA-J;HLA-L;HLA-C|HLA-K;HLA-A;HLA-J;HLA-L;HLA-C|HLA-K;HLA-A;HLA-J;HLA-L;HLA-C|HLA-K;HLA-A;HLA-J;HLA-L;HLA-C|HLA-K;HLA-A;HLA-J;HLA-L;HLA-C|HLA-K;HLA-A;HLA-J;HLA-L;HLA-C|HLA-K;HLA-A;HLA-J;HLA-L;HLA-C|HLA-K;HLA-A;HLA-J;HLA-L;HLA-C,rs4143333
+skin,rs144441042,chr6,30753945,Rosacea|Rosacea|Rosacea|Rosacea|Rosacea|Rosacea,HLA-V;HLA-G;HLA-K;HLA-L|HLA-V;HLA-G;HLA-K;HLA-L|HLA-V;HLA-G;HLA-K;HLA-L|HLA-V;HLA-G;HLA-K;HLA-L|HLA-V;HLA-G;HLA-K;HLA-L|HLA-V;HLA-G;HLA-K;HLA-L,rs3132649
+skin,rs144929896,chr6,31830358,Rosacea|Rosacea|Cutaneous lupus|Rosacea|Rosacea|Cutaneous lupus|Rosacea|Rosacea|Cutaneous lupus,HLA-C|HLA-C|HLA-C|HLA-C|HLA-C|HLA-C|HLA-C|HLA-C|HLA-C,rs9267531
+skin,rs149995197,chr6,30754684,Rosacea|Rosacea,HLA-V;HLA-G;HLA-K;HLA-L|HLA-V;HLA-G;HLA-K;HLA-L,rs1264350
+skin,rs1559267,chr5,96967994,Psoriasis|Psoriasis,ERAP2|ERAP2,rs2910686
+skin,rs17187896,chr6,30103530,Rosacea,HLA-V;HLA-K,rs3132649
+skin,rs17189364,chr6,30722858,Rosacea|Rosacea|Rosacea|Rosacea|Rosacea|Rosacea|Rosacea|Rosacea|Rosacea,HLA-V;HLA-G;HLA-K;HLA-L|HLA-V;HLA-G;HLA-K;HLA-L|HLA-V;HLA-G;HLA-K;HLA-L|HLA-V;HLA-G;HLA-K;HLA-L|HLA-V;HLA-G;HLA-K;HLA-L|HLA-V;HLA-G;HLA-K;HLA-L|HLA-V;HLA-G;HLA-K;HLA-L|HLA-V;HLA-G;HLA-K;HLA-L|HLA-V;HLA-G;HLA-K;HLA-L,rs3132649
+skin,rs2523443,chr6,29447687,Cutaneous lupus|Cutaneous lupus|Cutaneous lupus,HLA-G;HLA-K;HLA-A;HLA-J|HLA-G;HLA-K;HLA-A;HLA-J|HLA-G;HLA-K;HLA-A;HLA-J,rs1233491
+skin,rs2523833,chr6,31142170,Psoriasis,HLA-C;HLA-L,rs1576
+skin,rs2607014,chr6,31793436,Rosacea|Rosacea|Cutaneous lupus,HLA-C|HLA-C|HLA-C,rs9267531
+skin,rs3094222,chr6,31113657,Psoriasis|Psoriasis|Psoriasis,HLA-L;HLA-C|HLA-L;HLA-C|HLA-L;HLA-C,rs3134792
+skin,rs3094605,chr6,31462917,Rosacea|Psoriasis|Rosacea|Rosacea|Psoriasis|Rosacea|Rosacea|Psoriasis|Rosacea,HLA-E;HLA-C|HLA-E;HLA-C|HLA-E;HLA-C|HLA-E;HLA-C|HLA-E;HLA-C|HLA-E;HLA-C|HLA-E;HLA-C|HLA-E;HLA-C|HLA-E;HLA-C,rs4143333
+skin,rs3095311,chr6,31083898,Psoriasis,HLA-L;HLA-C,rs3134792
+skin,rs3101018,chr6,31738087,Rosacea|Rosacea|Cutaneous lupus|Rosacea|Rosacea|Cutaneous lupus|Rosacea|Rosacea|Cutaneous lupus,HLA-C|HLA-C|HLA-C|HLA-C|HLA-C|HLA-C|HLA-C|HLA-C|HLA-C,rs9267531
+skin,rs3129972,chr6,30749481,Cutaneous lupus|Cutaneous lupus|Cutaneous lupus|Cutaneous lupus,HLA-G;HLA-K;HLA-A;HLA-J;HLA-C|HLA-G;HLA-K;HLA-A;HLA-J;HLA-C|HLA-G;HLA-K;HLA-A;HLA-J;HLA-C|HLA-G;HLA-K;HLA-A;HLA-J;HLA-C,rs3131060
+skin,rs3129973,chr6,30753366,Cutaneous lupus|Cutaneous lupus,HLA-G;HLA-K;HLA-A;HLA-J;HLA-C|HLA-G;HLA-K;HLA-A;HLA-J;HLA-C,rs3131060
+skin,rs3130348,chr6,32172500,Atopic dermatitis|Atopic dermatitis|Atopic dermatitis,HLA-C|HLA-C|HLA-C,rs12153855
+skin,rs3130665,chr6,30768202,Cutaneous lupus|Cutaneous lupus,HLA-G;HLA-K;HLA-A;HLA-J;HLA-C|HLA-G;HLA-K;HLA-A;HLA-J;HLA-C,rs3131060
+skin,rs3131383,chr6,31736517,Rosacea|Cutaneous lupus|Rosacea|Cutaneous lupus|Rosacea|Cutaneous lupus,HLA-C|HLA-C|HLA-C|HLA-C|HLA-C|HLA-C,rs9267531
+skin,rs3132090,chr6,31462975,Rosacea|Psoriasis|Rosacea|Rosacea|Psoriasis|Rosacea|Rosacea|Psoriasis|Rosacea,HLA-E;HLA-C|HLA-E;HLA-C|HLA-E;HLA-C|HLA-E;HLA-C|HLA-E;HLA-C|HLA-E;HLA-C|HLA-E;HLA-C|HLA-E;HLA-C|HLA-E;HLA-C,rs4143333
+skin,rs3134947,chr6,32177428,Atopic dermatitis|Atopic dermatitis|Atopic dermatitis,HLA-C|HLA-C|HLA-C,rs12153855
+skin,rs41293856,chr6,31494871,Psoriasis|Psoriasis|Psoriasis,HLA-B|HLA-B|HLA-B,rs2395029
+skin,rs41293864,chr6,31498440,Atopic dermatitis,HLA-B,rs145809981
+skin,rs41293876,chr6,31498759,Atopic dermatitis,HLA-B,rs145809981
+skin,rs41293919,chr6,31542203,Psoriasis|Psoriasis,HLA-B|HLA-B,rs2395029
+skin,rs433061,chr6,32047051,Rosacea|Dermatomyositis|Rosacea|Cutaneous lupus,HLA-C|HLA-C|HLA-C|HLA-C,rs9267531
+skin,rs72502580,chr6,31397071,Multiple keratinocyte cancers;Squamous cell carcinoma|Multiple keratinocyte cancers;Squamous cell carcinoma|Multiple keratinocyte cancers;Squamous cell carcinoma,HLA-C|HLA-C|HLA-C,rs61447909
+skin,rs73425726,chr6,30779306,Rosacea|Rosacea|Rosacea,HLA-V;HLA-G;HLA-K;HLA-L|HLA-V;HLA-G;HLA-K;HLA-L|HLA-V;HLA-G;HLA-K;HLA-L,rs1264350
+skin,rs73727137,chr6,30935021,Rosacea|Rosacea|Rosacea|Rosacea|Rosacea|Rosacea,HLA-L|HLA-L|HLA-L|HLA-L|HLA-L|HLA-L,rs3132580
+skin,rs73727448,chr6,30566062,Rosacea|Rosacea|Rosacea|Rosacea|Rosacea|Rosacea|Rosacea|Rosacea|Rosacea,HLA-V;HLA-K|HLA-V;HLA-K|HLA-V;HLA-K|HLA-V;HLA-K|HLA-V;HLA-K|HLA-V;HLA-K|HLA-V;HLA-K|HLA-V;HLA-K|HLA-V;HLA-K,rs3132649
+skin,rs75666334,chr6,30814468,Rosacea,HLA-K;HLA-L,rs1264350
+Marten,rs1050414,chr6,31271729,Psoriasis,HLA-C,Unknown
+skin,rs9262142,chr6,30682249,Cutaneous lupus|Cutaneous lupus|Cutaneous lupus,HLA-G;HLA-K;HLA-A;HLA-J;HLA-C|HLA-G;HLA-K;HLA-A;HLA-J;HLA-C|HLA-G;HLA-K;HLA-A;HLA-J;HLA-C,rs3094067
+skin,rs9263472,chr6,31082262,Cutaneous lupus,HLA-C,rs3130564
+skin,rs9263582,chr6,31102887,Cutaneous lupus|Cutaneous lupus|Cutaneous lupus,HLA-C|HLA-C|HLA-C,rs3130564
+skin,rs9278760,chr6,30769899,Cutaneous lupus|Cutaneous lupus|Cutaneous lupus,HLA-G;HLA-K;HLA-A;HLA-J;HLA-C|HLA-G;HLA-K;HLA-A;HLA-J;HLA-C|HLA-G;HLA-K;HLA-A;HLA-J;HLA-C,rs3131060
+skin,rs9366775,chr6,31272319,Atopic dermatitis|Atopic dermatitis|Atopic dermatitis,HLA-C|HLA-C|HLA-C,rs9368677
+skin,rs1639105,chr6,31246577,Psoriasis|Psoriasis|Psoriasis|Psoriasis|Psoriasis|Psoriasis,HLA-L;HLA-C|HLA-L;HLA-C|HLA-L;HLA-C|HLA-L;HLA-C|HLA-L;HLA-C|HLA-L;HLA-C,rs4406273
+skin,rs1264350,chr6,30828768,Rosacea|Rosacea|Rosacea|Rosacea|Rosacea|Rosacea,HLA-K;HLA-A;HLA-J;HLA-C|HLA-K;HLA-A;HLA-J;HLA-C|HLA-K;HLA-A;HLA-J;HLA-C|HLA-K;HLA-A;HLA-J;HLA-C|HLA-K;HLA-A;HLA-J;HLA-C|HLA-K;HLA-A;HLA-J;HLA-C,rs3132649
+skin,rs2517609,chr6,30202510,Cutaneous lupus|Cutaneous lupus,HLA-G;HLA-K;HLA-A;HLA-J;HLA-E|HLA-G;HLA-K;HLA-A;HLA-J;HLA-E,rs3094067
+skin,rs2548225,chr5,96937329,Psoriasis,ERAP2,rs2910686
+skin,rs28600230,chr6,31307965,Atopic dermatitis,HLA-C,rs9368677
+skin,rs3094146,chr6,30003183,Cutaneous lupus,HLA-G;HLA-K;HLA-A;HLA-J,rs3094067
+skin,rs33941312,chr6,31116414,Rosacea|Rosacea,HLA-L|HLA-L,rs3132580
+skin,rs8111,chr6,32115398,Atopic dermatitis,HLA-C,rs41268896
+skin,rs9263455,chr6,31075472,Cutaneous lupus|Cutaneous lupus,HLA-C|HLA-C,rs3130564
+skin,rs9501053,chr6,31115643,Cutaneous lupus,HLA-C,rs3130564
+skin,rs17186475,chr6,29966571,Rosacea,HLA-V;HLA-K,rs3132649
+skin,rs2516414,chr6,31492206,Atopic dermatitis,HLA-B,rs145809981
+skin,rs2516428,chr6,31503073,Atopic dermatitis,HLA-B,rs145809981
+skin,rs2905736,chr6,31485513,Psoriasis,HLA-B,rs2395029
+skin,rs73727450,chr6,30597219,Rosacea|Rosacea|Rosacea,HLA-V;HLA-K|HLA-V;HLA-K|HLA-V;HLA-K,rs3132649
